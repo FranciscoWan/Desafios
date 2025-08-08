@@ -21,7 +21,7 @@ A estrutura de pastas foi pensada para ser escalável. O padrão é:
 /Linguagem/Tópico/arquivo_do_desafio.md
 ```
 
-Por exemplo, os desafios de laços `for` em Python que criamos estariam em: `Python/Lacos_de_Repeticao/`.
+Por exemplo, os desafios de laços `for` em Python que criamos estariam em: `Python/for/`.
 
 ## 🐍 Desafios Disponíveis Atualmente
 
@@ -45,7 +45,7 @@ Aqui está a lista de desafios que você já pode encontrar neste repositório.
 #### Laços de Repetição (`for`) - Nível Intermediário
 
 * **Desafio 11:** O Mapa do Tesouro (Laços Aninhados)
-* **Desafio 15:** O Primeiro Número Primo (Uso de `else` no `for` e `break`)
+* **Desafio 12:** O Primeiro Número Primo (Uso de `else` no `for` e `break`)
 
 ---
 
