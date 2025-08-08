@@ -46,9 +46,9 @@ Bem-vindo aos desafios de programação! Os exercícios a seguir foram criados p
 
 ### Desafio 6: O Robô de Limpeza
 
-**Contexto:** Você programou um pequeno robô para limpar uma sala retangular. O robô sempre começa em um canto e se move em linha reta até o outro lado, limpando um metro a cada passo. Você precisa simular o progresso do robô.
+**Contexto:** Você programou um pequeno robô para limpar uma sala retangular. O robô sempre começa em um canto e se move em linha reta até o outro lado, limpando um metro a cada passo. Você precisa simular o progresso do robô. Suponha que o tamanho da sala só pode ser tamanhos INTEIROS, int.
 
-**Objetivo:** Peça ao usuário para inserir a largura da sala em metros. Use um laço `for` para simular cada passo do robô, imprimindo uma mensagem a cada metro limpo. Ao final, exiba a mensagem "Sala limpa!".
+**Objetivo:** Peça ao usuário para inserir a largura e a altura da sala em metros. Use um laço `for` para simular cada passo do robô, imprimindo uma mensagem a cada metro limpo. Ao final, exiba a mensagem "Sala limpa!".
 
 ---
 
@@ -66,11 +66,20 @@ Bem-vindo aos desafios de programação! Os exercícios a seguir foram criados p
 
 **Objetivo:** Peça ao usuário um número de "andares" para a pirâmide. Use um laço `for` para construir e imprimir uma pirâmide de asteriscos (`*`) com a altura informada.
 
+**Exemplo de Saída se o Usuário Digitar 5:**
+```
+*
+**
+***
+****
+*****
+```
+
 ---
 
 ### Desafio 9: A Fábrica de Biscoitos
 
-**Contexto:** Em uma fábrica de biscoitos, uma máquina produz uma quantidade fixa de biscoitos por hora. Você é o engenheiro responsável por criar um programa que calcule a produção total ao final de um turno de trabalho.
+**Contexto:** Em uma fábrica de biscoitos, uma máquina produz uma quantidade fixa de biscoitos por hora (considere a hora como int). Você é o engenheiro responsável por criar um programa que calcule a produção total ao final de um turno de trabalho.
 
 **Objetivo:** Pergunte ao usuário quantos biscoitos são produzidos por hora e quantas horas dura o turno. Use um laço `for` para simular cada hora de produção, acumulando o total de biscoitos. Ao final, mostre a produção total.
 
@@ -78,16 +87,16 @@ Bem-vindo aos desafios de programação! Os exercícios a seguir foram criados p
 
 ### Desafio 10: O Atleta em Treinamento
 
-**Contexto:** Um atleta está treinando para uma corrida e aumenta a distância percorrida a cada dia de forma constante. Você precisa criar um programa que mostre o plano de treinamento dele para a primeira semana.
+**Contexto:** Um atleta está treinando para uma corrida e aumenta a distância percorrida a cada dia de forma constante. Crie um programa que mostre o plano de treinamento dele para a primeira semana.
 
-**Objetivo:** Peça ao usuário para inserir a distância inicial (em km) e o aumento diário (em km). Use um laço `for` para calcular e exibir a distância que ele deverá correr em cada um dos próximos 7 dias.
+**Objetivo:** Peça ao usuário para inserir a distância inicial (em km), e, a cada dia este atleta deverá correr 10% a mais da distância do dia anterior. Use um laço `for` para calcular e exibir a distância que ele deverá correr em cada um dos próximos 7 dias.
 
 
 # Desafio FINAL: O Mapa do Tesouro
 
 ### Desafio 11
 
-**Contexto:** Você encontrou um mapa do tesouro que descreve a localização de um baú em uma grade de 5x5. O mapa diz: "O tesouro está na coordenada X=3, Y=2". Você precisa criar um programa que desenhe o mapa e marque o local do tesouro.
+**Contexto:** Você encontrou um mapa do tesouro que descreve a localização de um baú em uma grade de 5x5. O mapa diz: "O tesouro está na coordenada X=3, Y=4". Você precisa criar um programa que desenhe o mapa e marque o local do tesouro.
 
 **Objetivo:** Use laços `for` aninhados para criar uma grade 5x5. Para cada célula da grade, imprima um `.` (ponto). No entanto, na coordenada exata onde o tesouro está (linha 2, coluna 3), imprima um `X`.
 
