@@ -29,6 +29,8 @@ Aqui está a lista de desafios que você já pode encontrar neste repositório.
 
 ### Python
 
+## Laço de repetição for:
+
 #### Laços de Repetição (`for`) - Nível Básico
 
 * **Desafio 1:** O Lançamento de Foguetes da Agência Espacial
@@ -46,6 +48,27 @@ Aqui está a lista de desafios que você já pode encontrar neste repositório.
 
 * **Desafio 11:** O Mapa do Tesouro (Laços Aninhados)
 * **Desafio 12:** O Primeiro Número Primo (Uso de `else` no `for` e `break`)
+
+---
+## Laço de repetição while:
+
+#### Laços de Repetição (`while`) - Nível Básico
+
+* **Desafio 1:** A Contagem do Relógio  
+* **Desafio 2:** A Missão da Contagem Regressiva  
+* **Desafio 3:** O Cofre das Somatórias  
+* **Desafio 4:** O Detector de Números Pares  
+* **Desafio 5:** O Jogo da Adivinhação Secreta  
+* **Desafio 6:** A Caça aos Números Pares  
+* **Desafio 7:** O Cofre de Senhas Secretas  
+* **Desafio 8:** A Maratona da Soma Infinita  
+* **Desafio 9:** A Busca pelos Números Primos  
+
+#### Laços de Repetição (`while`) - Nível Intermediário
+
+* **Desafio 10:** O Menu Interativo do Computador  
+* **Desafio 11:** O Caixa Eletrônico Virtual  
+* **Desafio 12:** O Jogo da Adivinhação com Níveis de Dificuldade  
 
 ---
 
