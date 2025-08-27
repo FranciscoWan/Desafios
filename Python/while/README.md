@@ -72,10 +72,10 @@ Mostre todos os números **primos** até `n` usando apenas `while` e condicionai
 ### 10. Menu interativo
 Crie um programa que exiba um menu de opções em loop:
 
-1. Dizer "Olá"  
-2. Mostrar a tabuada de um número digitado pelo usuário  
-3. Exibir todos os números de 1 a 20  
-4. Sair  
+1- Dizer "Olá"  
+2- Mostrar a tabuada de um número digitado pelo usuário  
+3- Exibir todos os números de 1 a 20  
+4- Sair  
 
 Use `while True` para manter o menu rodando, `break` para sair, e `continue` se o usuário digitar uma opção inválida.
 
@@ -85,10 +85,10 @@ Use `while True` para manter o menu rodando, `break` para sair, e `continue` se 
 Simule um caixa eletrônico:  
 - Usuário começa com saldo = 100  
 - Exiba um menu com opções:  
-  1. Depositar  
-  2. Sacar  
-  3. Ver saldo  
-  4. Sair  
+  1- Depositar  
+  2- Sacar  
+  3- Ver saldo  
+  4- Sair  
 
 Regras:  
 - Use `while True` e `break` para encerrar.  
