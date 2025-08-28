@@ -72,6 +72,30 @@ Aqui está a lista de desafios que você já pode encontrar neste repositório.
 
 ---
 
+## Listas + laços:
+
+#### Listas + Laços - Nível Básico
+
+* **Desafio 1:** O Carrinho de Compras do Supermercado  
+* **Desafio 2:** A Caça ao Maior Tesouro (Maior Número)  
+* **Desafio 3:** O Detector de Pares e Ímpares  
+* **Desafio 4:** O Cofrinho das Somatórias  
+* **Desafio 5:** O Guardião das Listas (Removendo Duplicados)  
+* **Desafio 6:** O Caçador de Nomes Perdidos (Busca em Lista)  
+* **Desafio 7:** O Espelho Mágico (Lista Invertida)  
+* **Desafio 8:** A Triagem dos Números Primos  
+
+#### Listas + Laços - Nível Intermediário
+
+* **Desafio 9:** O Desafio da Lista Secreta (Adivinhação)  
+* **Desafio 10:** A Sala de Aula Virtual (Gerenciador de Notas)  
+
+#### Listas + Laços - Nível Avançado
+
+* **Desafio 11:** O Cadastro dos Alunos da Academia (Mini Banco de Dados)  
+* **Desafio 12:** O Jogo da Forca Medieval  
+
+
 ## 🤝 Como Contribuir
 
 Tem uma ideia para um novo desafio ou uma sugestão para melhorar um existente? Sinta-se à vontade para abrir uma **Issue** neste repositório para discutirmos a ideia!
