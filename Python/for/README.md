@@ -92,9 +92,9 @@ Bem-vindo aos desafios de programação! Os exercícios a seguir foram criados p
 **Objetivo:** Peça ao usuário para inserir a distância inicial (em km), e, a cada dia este atleta deverá correr 10% a mais da distância do dia anterior. Use um laço `for` para calcular e exibir a distância que ele deverá correr em cada um dos próximos 7 dias.
 
 
-# Desafio FINAL: O Mapa do Tesouro
+# Desafio FINAL: 
 
-### Desafio 11
+### Desafio 11 - O Mapa do Tesouro
 
 **Contexto:** Você encontrou um mapa do tesouro que descreve a localização de um baú em uma grade de 5x5. O mapa diz: "O tesouro está na coordenada X=3, Y=4". Você precisa criar um programa que desenhe o mapa e marque o local do tesouro.
 
@@ -113,4 +113,20 @@ Bem-vindo aos desafios de programação! Os exercícios a seguir foram criados p
 . . . . . 
 . . . . . 
 ```
+
+---
+
+## Desafio 12: O Primeiro Número Primo (Uso de `else` no `for` e `break`)
+
+**Contexto:** Crie um programa em Python que receba um número inteiro n do usuário e determine o primeiro número primo maior ou igual a n.
+
+**Regras:**  
+* Use apenas laço for e condicionais.  
+* O programa deve verificar, número por número, se ele é primo.  
+
+**Para testar se um número é primo:**    
+ * Percorra seus possíveis divisores usando for.  
+ * Um número primo só é divisível por 1 e por ele mesmo.  
+ * Caso nenhum divisor seja encontrado, utilize o else do for para confirmar que é primo.  
+ * Assim que encontrar o primeiro número primo, exiba-o e encerre o programa.  
 
