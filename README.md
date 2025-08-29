@@ -29,6 +29,35 @@ Aqui está a lista de desafios que você já pode encontrar neste repositório.
 
 ### Python
 
+---
+
+## Condicionais
+
+#### Condicionais - Nível Básico
+
+* **Desafio 1:** O Duelo dos Dois Guerreiros (Quem é o Maior?)  
+* **Desafio 2:** O Oráculo dos Números (Par ou Ímpar)  
+* **Desafio 3:** As Portas Mágicas do Castelo (Escolha seu Destino)  
+* **Desafio 4:** O Livro da Vida (Classificação Etária)  
+* **Desafio 5:** A Calculadora Encantada  
+
+---
+
+#### Condicionais - Nível Intermediário
+
+* **Desafio 6:** O Triângulo dos Três Reinos  
+* **Desafio 7:** A Batalha da Prova Final (Aprovado, Recuperação ou Reprovado)  
+* **Desafio 8:** O Guardião do Tempo (Ano Bissexto)  
+
+---
+
+#### Condicionais - Nível Avançado
+
+* **Desafio 9:** O Cofre Secreto da Fortaleza (Senha Correta)  
+* **Desafio 10:** O Enigma dos Três Números (Maior, Menor e Progressão)  
+
+---
+
 ## Laço de repetição for:
 
 #### Laços de Repetição (`for`) - Nível Básico
