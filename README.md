@@ -72,9 +72,9 @@ Aqui está a lista de desafios que você já pode encontrar neste repositório.
 
 ---
 
-## Listas + laços:
+## Listas + Laços + Condicionais:
 
-#### Listas + Laços - Nível Básico
+#### Listas - Nível Básico
 
 * **Desafio 1:** O Carrinho de Compras do Supermercado  
 * **Desafio 2:** A Caça ao Maior Tesouro (Maior Número)  
@@ -85,16 +85,42 @@ Aqui está a lista de desafios que você já pode encontrar neste repositório.
 * **Desafio 7:** O Espelho Mágico (Lista Invertida)  
 * **Desafio 8:** A Triagem dos Números Primos  
 
-#### Listas + Laços - Nível Intermediário
+#### Listas - Nível Intermediário
 
 * **Desafio 9:** O Desafio da Lista Secreta (Adivinhação)  
 * **Desafio 10:** A Sala de Aula Virtual (Gerenciador de Notas)  
 
-#### Listas + Laços - Nível Avançado
+#### Listas - Nível Avançado
 
 * **Desafio 11:** O Cadastro dos Alunos da Academia (Mini Banco de Dados)  
 * **Desafio 12:** O Jogo da Forca Medieval  
 
+---
+
+## Dicionários + laços + Condicionais:
+
+#### Dicionários - Nível Básico
+
+* **Desafio 1:** A Agenda Secreta do Agente 007  
+* **Desafio 2:** O Guardião das Palavras Perdidas  
+* **Desafio 3:** O Mercado Encantado (Consulta de Produtos)  
+* **Desafio 4:** O Concurso dos Alunos Geniais  
+* **Desafio 5:** O Quebra-Cabeça das Letras  
+
+---
+
+#### Dicionários - Nível Intermediário
+
+* **Desafio 6:** A Loja Virtual do Futuro  
+* **Desafio 7:** O Mundo Invertido dos Dicionários  
+* **Desafio 8:** O Conselho Escolar dos Sábios (Média Final)  
+
+---
+
+#### Dicionários - Nível Avançado
+
+* **Desafio 9:** O Livro das Palavras Mágicas (Estatísticas de Texto)  
+* **Desafio 10:** A Fortaleza dos Usuários (Sistema de Login e Cadastro)
 
 ## 🤝 Como Contribuir
 
