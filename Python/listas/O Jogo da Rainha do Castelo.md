@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="RainhaCopas.jpg" alt="Rainha de Copas" width="400" />
+  
+</div>
+
+
+
 # **O Jogo da Rainha do Castelo**
 
 ## **História:**
