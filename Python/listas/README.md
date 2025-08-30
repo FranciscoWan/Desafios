@@ -94,4 +94,7 @@ Implemente o jogo da forca usando **listas e laços**:
 
 ---
 
+### 13. O Jogo da Rainha do Castelo
+Acesse o jogo no arquivo separado: O Jogo da Rainha do Castelo.md
+
 📌 Agora é com você: resolva os desafios em ordem crescente de dificuldade e veja sua evolução em Python 🚀
