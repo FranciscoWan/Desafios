@@ -1,6 +1,6 @@
 # 🐍 Desafios de Programação em Python - Listas, Laços e Condicionais
 
-Esta lista contém **12 desafios** que exploram o uso de **listas, laços (`for` e `while`) e condicionais**.  
+Esta lista contém **13 desafios** que exploram o uso de **listas, laços (`for` e `while`) e condicionais**.  
 Os desafios estão organizados do mais simples ao mais desafiador, para ajudar você a evoluir gradualmente.
 
 ---
@@ -28,7 +28,7 @@ Leia uma lista de números (quantidade definida pelo usuário) e calcule a soma 
 ---
 
 ### 5. Removendo Elementos Duplicados  
-Peça para o usuário digitar vários números e salve em uma lista.  
+Peça para o usuário digitar 6 números e salve em uma lista.  
 Depois, crie uma nova lista sem elementos repetidos.  
 
 ---
@@ -52,19 +52,19 @@ Depois, crie outra lista apenas com os números primos.
 ---
 
 ### 9. Jogo da Adivinhação com Lista  
-Peça ao usuário para digitar 5 números (lista secreta).  
-Depois, outro usuário deve tentar adivinhar esses números um por um.  
+Peça ao usuário para digitar 5 números de 1 a 10 (lista secreta).  
+Depois, outro usuário deve tentar adivinhar esses números um por um em 5 tentativas.  
 O programa deve mostrar quantos ele acertou.  
 
 ---
 
 ### 10. Gerenciador de Notas (Média e Situação)  
-Peça para o usuário inserir as notas de uma turma.  
+Peça para o usuário inserir as notas de 3 alunos de uma turma. Cada aluno possui 5 notas. 
 O programa deve:  
 - Exibir todas as notas  
 - Calcular a média da turma  
-- Mostrar quais alunos ficaram acima da média  
-- Mostrar quais ficaram abaixo da média  
+- Mostrar quais alunos ficaram acima da média (>=7 = Aprovado) 
+- Mostrar quais ficaram abaixo da média  (<7 = Reprovado)
 
 ---
 
