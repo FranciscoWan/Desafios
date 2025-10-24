@@ -72,7 +72,7 @@ O programa deve:
 
 ### 11. Banco de Dados de Alunos (Mini-Sistema de Cadastro)  
 Crie um programa que funcione como um pequeno sistema para gerenciar alunos:  
-- O usuário pode **cadastrar alunos** com nome e nota (usar listas paralelas ou lista de dicionários).  
+- O usuário pode **cadastrar alunos** com nome e nota, 3 notas por aluno (usar listas paralelas ou lista de dicionários).  
 - O menu deve ter opções:  
   1- Cadastrar aluno  
   2- Listar todos os alunos  
