@@ -34,7 +34,7 @@ Depois, percorra o dicionário e exiba:
 ---
 
 ### 5. Contando Caracteres  
-Peça ao usuário um texto e monte um dicionário com a frequência de cada caractere.  
+Peça ao usuário uma frase e monte um dicionário com a frequência de cada caractere.  
 Exemplo: `"banana"` → `{ 'b':1, 'a':3, 'n':2 }`.  
 
 ---
@@ -53,7 +53,7 @@ Depois, crie um novo dicionário invertendo **chaves e valores**.
 ---
 
 ### 8. Boletim Escolar com Média  
-Monte um dicionário de alunos, onde cada chave é o nome e o valor é uma lista de notas.  
+Monte um dicionário de alunos, onde cada chave é o nome e o valor é uma lista de 3 notas.  
 Depois, percorra o dicionário e mostre a média de cada aluno e a situação:  
 - **Aprovado** (média ≥ 7),  
 - **Recuperação** (5 ≤ média < 7),  
@@ -62,12 +62,12 @@ Depois, percorra o dicionário e mostre a média de cada aluno e a situação:
 ---
 
 ### 9. Estatísticas de Palavras  
-Peça ao usuário um texto.  
+Peça ao usuário uma frase.  
 Monte um dicionário com:  
 - total de palavras,  
 - palavra mais longa,  
 - palavra mais curta,  
-- quantas vezes a palavra `"Python"` aparece.  
+- quantas vezes a palavra `"python"` aparece.  
 
 ---
 
